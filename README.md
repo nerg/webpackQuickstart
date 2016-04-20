@@ -1,3 +1,3 @@
-#Webpack Quickstart
+#Angular 2 Quickstart Webpack version
 
-This is the quickstart from google adapted to work with webpack.
+This is the Angular 2 quickstart from google adapted to work with webpack.
