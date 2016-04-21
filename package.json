@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "postinstall": "typings install"
   },
   "license": "ISC",
   "dependencies": {
@@ -16,6 +17,7 @@
   },
   "devDependencies": {
     "typescript": "^1.8.10",
+    "typings":"^0.7.12",
     "ts-loader":"^0.7.2"
   }
 }
